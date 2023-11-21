@@ -2,20 +2,12 @@
 
 **cubicFUSION Grid Tweaker** extends the new Elementor Grid Container, with options to handle grid item layouts without the need to use direct CSS.
 
-[cubicFUSION Admin Enhancer - Website][1]  
-[cubicFUSION Admin Enhancer - WordPress Respository][2]  
-[Alex @ portalZINE NMN - Development meets Creativity][3]
+[Alex @ portalZINE NMN - Development meets Creativity][1]
 
 ## General Features
 
 Grid item enhancements:
-grid-row
-grid-row-start
-grid-row-end
-
-grid-column
-grid-column-start
-grid-column-end
+grid-row , grid-row-start, grid-row-end, grid-column, grid-column-start, grid-column-end
 
 ## Localization
 
