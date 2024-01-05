@@ -2,6 +2,8 @@
 
 **cubicFUSION Grid Tweaker** extends the new Elementor Grid Container, with options to handle grid item layouts without the need to use direct CSS.
 
+I plan to extend the plugin to provide even more flexibility.
+
 [Alex @ portalZINE NMN - Development meets Creativity][1]
 
 ## General Features
